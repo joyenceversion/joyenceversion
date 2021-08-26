@@ -1,5 +1,5 @@
 ---
-title: New post
+title: Insights
 description: This is meta description.
 draft: false
 ---
